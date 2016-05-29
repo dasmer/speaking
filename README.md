@@ -21,8 +21,8 @@ If you'd like me to speak at a panel, competition or conference, email me at <da
 | 04 March 2016 | Panelist | [CORE Circles][5] | Venmo HQ, New York | - |
 | 30 Nov 2015 | Technical Advisor | [Lion Hack][6] |Columbia University,  New York | - |
 | 03 April 2015 | Panelist | Moving Up the Internship Ladder |Columbia University,  New York |- |
-| 29 Aug 2014 | Speaker | [A Swift Start][3] | The Flatiron School, New York |  [Learn From Thy Users][4] |
-| 21 July 2014 | Speaker | Integrate the Venmo SDK | The Flatiron School, New York |  [iOS Devs NYC][2] |
+| 29 Aug 2014 | Speaker | [A Swift Start][3] | The Flatiron School, New York | [Learn From Thy Users][4] |
+| 21 July 2014 | Speaker | [iOS Devs NYC][2] | The Flatiron School, New York | Integrate the Venmo SDK |
 
 [1]: http://www.iosdevuk.com/
 [2]: http://www.meetup.com/iOS-Devs-NYC/events/194385732/

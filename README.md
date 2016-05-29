@@ -13,7 +13,7 @@ If you'd like me to speak at a panel, competition or conference, email me at <da
 
 | Date        | Role | Event | Location | Talk Title (if applicable) |
 | ----------- | ----- | ----- | ----- | -------- |
-| 23 May 2016 | Speaker | [UIKonf][8a] | Berlin, Germany | Build Once Use Everywhere ([Video][8a], [Slides][8b]) |
+| 23 May 2016 | Speaker | [UIKonf][8a] | Berlin, Germany | Build Once Use Everywhere ([Video][8b], [Slides][8c]) |
 | 16 April 2016 | Judge | [FinTech Pitch Competition][7] | Columbia University,  New York | - |
 | 01 April 2016 | Panelist | Yale MBA Tech Club Job Trek | Venmo HQ,  New York | - |
 | 23 March 2016 | Panelist | Starting a Startup | Columbia University,  New York | - |

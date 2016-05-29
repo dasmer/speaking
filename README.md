@@ -13,7 +13,7 @@ If you'd like me to speak at a panel, competition or conference, email me at <da
 
 | Date        | Role / Talk Title | Event | Location |
 | ----------- | ----- | ----- | -------- |
-| 23 March 2016 | Panelist | First-hand at a Startup| Columbia University,  New York |
+| 23 March 2016 | Panelist | Firsthard Experiences at a Startup | Columbia University,  New York |
 | 04 March 2016 | Panelist | [CORE Circles][5] | Venmo HQ, New York |
 | 03 April 2015 | Panelist | Moving Up the Internship Ladder |Columbia University,  New York |
 | 29 Aug 2014 | [Learn From Thy Users][4] | [A Swift Start][3] | The Flatiron School, New York |

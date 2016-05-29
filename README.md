@@ -13,7 +13,7 @@ If you'd like me to speak at a panel, competition or conference, email me at <da
 
 | Date        | Role | Event | Location | Talk Title (if applicable) |
 | ----------- | ----- | ----- | ----- | -------- |
-| 23 May 2016 | Speaker | [UIKonf][8] | Berlin, Germany | Build Once Use Everywhere ([Video][8a], Slides[8b]) |
+| 23 May 2016 | Speaker | [UIKonf][8a] | Berlin, Germany | Build Once Use Everywhere ([Video][8a], [Slides][8b]) |
 | 16 April 2016 | Judge | [FinTech Pitch Competition][7] | Columbia University,  New York | - |
 | 01 April 2016 | Panelist | Yale MBA Tech Club Job Trek | Venmo HQ,  New York | - |
 | 23 March 2016 | Panelist | Starting a Startup | Columbia University,  New York | - |
@@ -31,8 +31,9 @@ If you'd like me to speak at a panel, competition or conference, email me at <da
 [5]: http://coreatcu.com/corecircles
 [6]: http://columbiaentrepreneurs.org/CEONEW2015/lion-hack-cbs-2015/
 [7]: https://www.evensi.us/core-fintech-amp-social-entrepreneurship-elevator-pitch/175092386
-[8a]: https://www.youtube.com/watch?v=JbIoI7sm4_o&t=37m0s
-[8b]: https://speakerdeck.com/dasmer/build-once-use-everywhere
+[8a]: http://www.uikonf.com
+[8b]: https://www.youtube.com/watch?v=JbIoI7sm4_o&t=37m0s
+[8c]: https://speakerdeck.com/dasmer/build-once-use-everywhere
 [9]: https://www.udacity.com/course/objective-c-for-swift-developers--ud1009
 [10]: https://classroom.udacity.com/courses/ud1009/lessons/7813929061/concepts/79651565980923
 [11]: https://classroom.udacity.com/courses/ud1009/lessons/8087838321/concepts/81452688740923

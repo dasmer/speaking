@@ -1,3 +1,5 @@
+<img src="images/interview.jpg" height=200><img src="images/audience.jpg" height=200><img src="images/close_up.jpg" height=200>
+
 One of my goals is to speak at more places and events. Here is my up-to-date schedule for the near future.
 
 ## Upcoming Events

@@ -18,11 +18,11 @@ If you'd like me to speak at a panel, competition or conference, email me at <da
 | 23 May 2016 | Speaker | [UIKonf][8a] | Berlin, Germany | Build Once Use Everywhere ([Slides][8c]) |
 | 16 April 2016 | Judge | [FinTech Pitch Competition][7] | Columbia University,  New York | - |
 | 01 April 2016 | Panelist | Yale MBA Tech Club Job Trek | Venmo HQ,  New York | - |
-| 23 March 2016 | Panelist | Starting a Startup | Columbia University,  New York | - |
+| 23 March 2016 | Panelist | Starting a Startup - AKPsi Panel | Columbia University,  New York | - |
 | 14 March 2016 | Interviewee | [Objective-C for Swift Developers by Udacity][9] | Mountain View,  California | [Objective-C vs Swift][10], [Common Interop Challenges][11] |
 | 04 March 2016 | Panelist | [CORE Circles][5] | Venmo HQ, New York | - |
 | 30 November 2015 | Technical Advisor | [Lion Hack][6] |Columbia University,  New York | - |
-| 03 April 2015 | Panelist | Moving Up the Internship Ladder |Columbia University,  New York |- |
+| 03 April 2015 | Panelist | Moving Up the Internship Ladder - AKPsi Panel |Columbia University,  New York |- |
 | 29 August 2014 | Speaker | [A Swift Start][3] | The Flatiron School, New York | [Learn From Thy Users][4] |
 | 21 July 2014 | Speaker | [iOS Devs NYC][2] | The Flatiron School, New York | Integrate the Venmo SDK |
 

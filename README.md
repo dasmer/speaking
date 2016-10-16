@@ -6,6 +6,7 @@ One of my goals is to speak at more places and events.If you'd like me to speak 
 
 | Date        | Role | Event | Location | Talk Title (if applicable) |
 | ----------- | ----- | ----- | ----- | -------- |
+| 10 October 2016 | Speaker | [The Wizardest Podcast][13a] | New York, NY | [Product Management, Mobile Engineering, and iOS 10][8c] |
 | 5 September 2016 | Speaker | [iOSDevUK][1] | Aberystwyth, UK | Hey Siri, Let's Connect |
 | 23 May 2016 | Speaker | [UIKonf][8a] | Berlin, Germany | Build Once Use Everywhere ([Slides][8c]) |
 | 16 April 2016 | Judge | [FinTech Pitch Competition][7] | Columbia University,  New York | - |
@@ -32,3 +33,6 @@ One of my goals is to speak at more places and events.If you'd like me to speak 
 [10]: https://classroom.udacity.com/courses/ud1009/lessons/7813929061/concepts/79651565980923
 [11]: https://classroom.udacity.com/courses/ud1009/lessons/8087838321/concepts/81452688740923
 [12]: https://www.youtube.com/watch?v=JbIoI7sm4_o
+[13a]: https://wizardest.com/tagged/podcast
+[13a]: https://wizardest.com/wizardest-podcast-episode-1-dasmer-singh-product-manager-at-venmo-fc7fea62ff42#.4tajek5lz
+

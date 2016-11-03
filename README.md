@@ -1,6 +1,15 @@
 <img src="images/interview.jpg" height=200><img src="images/audience.jpg" height=200><img src="images/close_up.jpg" height=200>
 
-One of my goals is to speak at more places and events.If you'd like me to speak at a panel, competition or conference, email me at <dasmersingh@gmail.com>.
+One of my goals is to speak at more places and events.
+
+## Upcoming Events
+
+| Date        | Role | Event | Location | Talk Title (if applicable) |
+| ----------- | ----- | ----- | ----- | -------- |
+| 15 November 2016 | Judge | [Fast Pitch Competition][1] |Columbia University,  New York | - |
+
+
+If you'd like me to speak at a panel, competition or conference, email me at <dasmersingh@gmail.com>.
 
 ## Past Events
 
@@ -35,4 +44,5 @@ One of my goals is to speak at more places and events.If you'd like me to speak 
 [12]: https://www.youtube.com/watch?v=JbIoI7sm4_o
 [13a]: https://wizardest.com/tagged/podcast
 [13b]: https://wizardest.com/wizardest-podcast-episode-1-dasmer-singh-product-manager-at-venmo-fc7fea62ff42#.4tajek5lz
+[14]: https://www.eventbrite.com/e/columbia-fast-pitch-competition-2016-registration-29058471671?aff=erelexpmlt
 

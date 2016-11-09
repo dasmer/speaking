@@ -15,7 +15,7 @@ If you'd like me to speak at a panel, competition or conference, email me at <da
 
 | Date        | Role | Event | Location | Talk Title (if applicable) |
 | ----------- | ----- | ----- | ----- | -------- |
-| 10 October 2016 | Speaker | [The Wizardest Podcast][13a] | New York, NY | [Product Management, Mobile Engineering, and iOS 10][13b] |
+| 10 October 2016 | Speaker | [The Wizardest Podcast][13a] | New York, NY | Product Management, Mobile Engineering, and iOS 10 |
 | 5 September 2016 | Speaker | [iOSDevUK][1] | Aberystwyth, UK | Hey Siri, Let's Connect |
 | 23 May 2016 | Speaker | [UIKonf][8a] | Berlin, Germany | Build Once Use Everywhere ([Slides][8c]) |
 | 16 April 2016 | Judge | [FinTech Pitch Competition][7] | Columbia University,  New York | - |

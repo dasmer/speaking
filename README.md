@@ -6,7 +6,8 @@ One of my goals is to speak at more places and events.
 
 | Date        | Role | Event | Location | Talk Title (if applicable) |
 | ----------- | ----- | ----- | ----- | -------- |
-| 15 November 2016 | Judge | [Fast Pitch Competition][1] |Columbia University,  New York | - |
+| 01 June 2017 | Judge | The Workflows of Product Management | The Flatiron School, New York  | - |
+| 02 March 2017 | Judge | The Risks and Rewards of Rewriting Your App in Swift | The Flatiron School, New York  | - |
 
 
 If you'd like me to speak at a panel, competition or conference, email me at <dasmersingh@gmail.com>.
@@ -15,6 +16,7 @@ If you'd like me to speak at a panel, competition or conference, email me at <da
 
 | Date        | Role | Event | Location | Talk Title (if applicable) |
 | ----------- | ----- | ----- | ----- | -------- |
+| 15 November 2016 | Judge | [Fast Pitch Competition][1] | |Columbia University,  New York | - |
 | 10 October 2016 | Speaker | [The Wizardest Podcast][13a] | New York, NY | Product Management, Mobile Engineering, and iOS 10 |
 | 5 September 2016 | Speaker | [iOSDevUK][1] | Aberystwyth, UK | Hey Siri, Let's Connect |
 | 23 May 2016 | Speaker | [UIKonf][8a] | Berlin, Germany | Build Once Use Everywhere ([Slides][8c]) |

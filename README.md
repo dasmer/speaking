@@ -6,8 +6,8 @@ One of my goals is to speak at more places and events.
 
 | Date        | Role | Event | Location | Talk Title (if applicable) |
 | ----------- | ----- | ----- | ----- | -------- |
-| 01 June 2017 | Judge | The Workflows of Product Management | The Flatiron School, New York  | - |
-| 02 March 2017 | Judge | The Risks and Rewards of Rewriting Your App in Swift | The Flatiron School, New York  | - |
+| 01 June 2017 | Speaker | The Workflows of Product Management | The Flatiron School, New York  | - |
+| 02 March 2017 | Speaker | The Risks and Rewards of Rewriting Your App in Swift | The Flatiron School, New York  | - |
 
 
 If you'd like me to speak at a panel, competition or conference, email me at <dasmersingh@gmail.com>.

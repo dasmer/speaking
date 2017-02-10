@@ -7,7 +7,7 @@ One of my goals is to speak at more places and events.
 | Date        | Role | Event | Location | Talk Title (if applicable) |
 | ----------- | ----- | ----- | ----- | -------- |
 | 01 June 2017 | Speaker | Flatiron Product Series | The Flatiron School, New York  | The Workflows of Product Management |
-| 29 March 2017 | Speaker | [ADI - Venmo Guest Speaker][15] | Columbia University,  New York  | Transitioning to Product |
+| 29 March 2017 | Speaker | [Venmo Guest Speaker Event - Columbia ADI][15] | Columbia University,  New York  | Transitioning to Product |
 | 02 March 2017 | Speaker | iOS Technical Guest Lecture | The Flatiron School, New York  | The Risks and Rewards of Rewriting Your App in Swift |
 
 

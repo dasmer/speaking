@@ -8,7 +8,6 @@ One of my goals is to speak at more places and events.
 | ----------- | ----- | ----- | ----- | -------- |
 | 01 June 2017 | Speaker | Flatiron Product Series | The Flatiron School, New York  | The Workflows of Product Management |
 | 29 March 2017 | Speaker | Venmo Guest Speaker Event - [Columbia ADI][15] | Columbia University,  New York  | Transitioning to Product |
-| 02 March 2017 | Speaker | iOS Technical Guest Lecture | The Flatiron School, New York  | [Building Emoji Autocomplete][16] |
 
 
 If you'd like me to speak at a panel, competition or conference, email me at <dasmersingh@gmail.com>.
@@ -17,6 +16,7 @@ If you'd like me to speak at a panel, competition or conference, email me at <da
 
 | Date        | Role | Event | Location | Talk Title (if applicable) |
 | ----------- | ----- | ----- | ----- | -------- |
+| 02 March 2017 | Speaker | iOS Technical Guest Lecture | The Flatiron School, New York | [Building Emoji Autocomplete][16] |
 | 15 November 2016 | Judge | [Fast Pitch Competition][1] | | Columbia University,  New York | - |
 | 10 October 2016 | Speaker | [The Wizardest Podcast][13a] | New York, NY | Product Management, Mobile Engineering, and iOS 10 |
 | 5 September 2016 | Speaker | [iOSDevUK][1] | Aberystwyth, UK | Hey Siri, Let's Connect |

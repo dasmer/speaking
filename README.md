@@ -49,4 +49,4 @@ If you'd like me to speak at a panel, competition or conference, email me at <da
 [13b]: https://wizardest.com/wizardest-podcast-episode-1-dasmer-singh-product-manager-at-venmo-fc7fea62ff42#.4tajek5lz
 [14]: https://www.eventbrite.com/e/columbia-fast-pitch-competition-2016-registration-29058471671?aff=erelexpmlt
 [15]: https://adicu.com/
-[16]: https://speakerdeck.com/dasmer/building-emoji-autocomplete
+[16]: http://share.snacktools.com/959B5A59E8C/bh3212q8

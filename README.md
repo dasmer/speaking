@@ -7,7 +7,6 @@ One of my goals is to speak at more places and events.
 | Date        | Role | Event | Location | Talk Title (if applicable) |
 | ----------- | ----- | ----- | ----- | -------- |
 | 01 June 2017 | Speaker | Flatiron Product Series | The Flatiron School, New York  | The Workflows of Product Management |
-| 29 March 2017 | Speaker | Venmo Guest Speaker Event - [Columbia ADI][15] | Columbia University,  New York  | Transitioning to Product |
 
 
 If you'd like me to speak at a panel, competition or conference, email me at <dasmersingh@gmail.com>.
@@ -16,6 +15,7 @@ If you'd like me to speak at a panel, competition or conference, email me at <da
 
 | Date        | Role | Event | Location | Talk Title (if applicable) |
 | ----------- | ----- | ----- | ----- | -------- |
+| 29 March 2017 | Speaker | [Venmo Guest Speaker Event][15] | Columbia University,  New York | Transitioning to Product |
 | 02 March 2017 | Speaker | iOS Technical Guest Lecture | The Flatiron School, New York | [Building Emoji Autocomplete][16] |
 | 15 November 2016 | Judge | [Fast Pitch Competition][1] | | Columbia University,  New York | - |
 | 10 October 2016 | Speaker | [The Wizardest Podcast][13a] | New York, NY | Product Management, Mobile Engineering, and iOS 10 |
@@ -48,5 +48,5 @@ If you'd like me to speak at a panel, competition or conference, email me at <da
 [13a]: https://wizardest.com/tagged/podcast
 [13b]: https://wizardest.com/wizardest-podcast-episode-1-dasmer-singh-product-manager-at-venmo-fc7fea62ff42#.4tajek5lz
 [14]: https://www.eventbrite.com/e/columbia-fast-pitch-competition-2016-registration-29058471671?aff=erelexpmlt
-[15]: https://adicu.com/
+[15]: https://www.facebook.com/events/1897105280571033/
 [16]: http://share.snacktools.com/959B5A59E8C/bh3212q8

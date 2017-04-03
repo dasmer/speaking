@@ -17,7 +17,7 @@ If you'd like me to speak at a panel, competition or conference, email me at <da
 | ----------- | ----- | ----- | ----- | -------- |
 | 29 March 2017 | Speaker | [Venmo Guest Speaker Event][15] | Columbia University,  New York | [Beyond Software Engineering][17] |
 | 02 March 2017 | Speaker | iOS Technical Guest Lecture | The Flatiron School, New York | [Building Emoji Autocomplete][16] |
-| 15 November 2016 | Judge | [Fast Pitch Competition][1] | | Columbia University,  New York | - |
+| 15 November 2016 | Judge | [Fast Pitch Competition][1] | Columbia University,  New York | - |
 | 10 October 2016 | Speaker | [The Wizardest Podcast][13a] | New York, NY | Product Management, Mobile Engineering, and iOS 10 |
 | 5 September 2016 | Speaker | [iOSDevUK][1] | Aberystwyth, UK | Hey Siri, Let's Connect |
 | 23 May 2016 | Speaker | [UIKonf][8a] | Berlin, Germany | Build Once Use Everywhere ([Slides][8c]) |

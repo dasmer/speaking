@@ -7,7 +7,7 @@ If you'd like me to speak at a panel, competition or conference, email me at <da
 
 | Date        | Role | Event | Location | Talk Title (if applicable) |
 | ----------- | ----- | ----- | ----- | -------- |
-| 10 July 2017 | Speaker | Civic Hall Events[18] | Civic Hall, New York  | TBD |
+| 10 July 2017 | Speaker | [Civic Hall Events][18] | Civic Hall, New York  | TBD |
 
 ## Past Events
 

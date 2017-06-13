@@ -3,6 +3,12 @@
 One of my goals is to speak at more places and events.
 If you'd like me to speak at a panel, competition or conference, email me at <dasmersingh@gmail.com>.
 
+## Upcoming Events
+
+| Date        | Role | Event | Location | Talk Title (if applicable) |
+| ----------- | ----- | ----- | ----- | -------- |
+| 10 July 2017 | Speaker | Civic Hall Events[18] | Civic Hall, New York  | TBD |
+
 ## Past Events
 
 | Date        | Role | Event | Location | Talk Title (if applicable) |
@@ -44,3 +50,4 @@ If you'd like me to speak at a panel, competition or conference, email me at <da
 [15]: https://www.facebook.com/events/1897105280571033/
 [16]: http://share.snacktools.com/959B5A59E8C/bh3212q8
 [17]: https://speakerdeck.com/dasmer/beyond-software-engineering
+[18]: https://civichall.org/events/

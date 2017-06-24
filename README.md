@@ -7,7 +7,7 @@ If you'd like me to speak at a panel, competition or conference, email me at <da
 
 | Date        | Role | Event | Location | Talk Title (if applicable) |
 | ----------- | ----- | ----- | ----- | -------- |
-| 10 July 2017 | Speaker | [Civic Hall Events][19] | Civic Hall, New York  | TBD |
+| 10 July 2017 | Speaker | [Civic Hall Events][19] | Civic Hall, New York  | #JustVenmoMe: Sharing Code with Open Source |
 
 ## Past Events
 
@@ -51,4 +51,4 @@ If you'd like me to speak at a panel, competition or conference, email me at <da
 [16]: http://share.snacktools.com/959B5A59E8C/bh3212q8
 [17]: https://speakerdeck.com/dasmer/beyond-software-engineering
 [18]: https://speakerdeck.com/dasmer/the-workflows-of-product-management
-[19]: https://civichall.org/events/
+[19]: https://www.eventbrite.com/e/justvenmome-sharing-code-with-open-source-tickets-35387480908?aff=es2

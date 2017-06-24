@@ -7,6 +7,7 @@ If you'd like me to speak at a panel, competition or conference, email me at <da
 
 | Date        | Role | Event | Location | Talk Title (if applicable) |
 | ----------- | ----- | ----- | ----- | -------- |
+| 11 July 2017 | Speaker | [Entrepreneurship Bootcamp Series][20] | WeWork Soho, New York  | How To Hire The Right Tech Team |
 | 10 July 2017 | Speaker | [Civic Hall Events][19] | Civic Hall, New York  | #JustVenmoMe: Sharing Code with Open Source |
 
 ## Past Events
@@ -51,4 +52,5 @@ If you'd like me to speak at a panel, competition or conference, email me at <da
 [16]: http://share.snacktools.com/959B5A59E8C/bh3212q8
 [17]: https://speakerdeck.com/dasmer/beyond-software-engineering
 [18]: https://speakerdeck.com/dasmer/the-workflows-of-product-management
-[19]: https://www.eventbrite.com/e/justvenmome-sharing-code-with-open-source-tickets-35387480908?aff=es2
+[19]: https://www.eventbrite.com/e/justvenmome-sharing-code-with-open-source-tickets-35387480908
+[20]: https://www.eventbrite.com/e/entrepreneurship-bootcamp-series-how-to-hire-the-right-tech-team-tickets-35482476041

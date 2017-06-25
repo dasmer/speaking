@@ -1,4 +1,4 @@
-<img src="images/interview.jpg" height=200><img src="images/audience.jpg" height=200><img src="images/close_up.jpg" height=200>
+<img src="images/interview.jpg" height="200"><img src="images/audience.jpg" height="200"><img src="images/close_up.jpg" height="200">
 
 One of my goals is to speak at more places and events.
 If you'd like me to speak at a panel, competition or conference, email me at <dasmersingh@gmail.com>.

@@ -13,7 +13,7 @@ If you'd like me to speak at a panel, competition or conference, email me at <da
 
 | Date        | Role | Event | Location | Talk Title (if applicable) |
 | ----------- | ----- | ----- | ----- | -------- |
-| 10 July 2017 | Speaker |  [Civic Hall Events][19] | Civic Hall, New York | [#JustVenmoMe: Sharing Code with Open Source][19] |
+| 10 July 2017 | Speaker |  [Civic Hall Events][19] | Civic Hall, New York | [#JustVenmoMe: Sharing Code with Open Source][21] |
 | 01 June 2017 | Speaker |  Flatiron Product Series | The Flatiron School, New York | [The Workflows of Product Management][18] |
 | 29 March 2017 | Speaker | [Venmo Guest Speaker Event][15] | Columbia University,  New York | [Beyond Software Engineering][17] |
 | 02 March 2017 | Speaker | iOS Technical Guest Lecture | The Flatiron School, New York | [Building Emoji Autocomplete][16] |

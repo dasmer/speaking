@@ -8,12 +8,12 @@ If you'd like me to speak at a panel, competition or conference, email me at <da
 | Date        | Role | Event | Location | Talk Title (if applicable) |
 | ----------- | ----- | ----- | ----- | -------- |
 | 11 July 2017 | Speaker | [Entrepreneurship Bootcamp Series][20] | WeWork Soho, New York  | How To Hire The Right Tech Team |
-| 10 July 2017 | Speaker | [Civic Hall Events][19] | Civic Hall, New York  | #JustVenmoMe: Sharing Code with Open Source |
 
 ## Past Events
 
 | Date        | Role | Event | Location | Talk Title (if applicable) |
 | ----------- | ----- | ----- | ----- | -------- |
+| 10 July 2017 | Speaker |  [Civic Hall Events][19] | Civic Hall, New York | [#JustVenmoMe: Sharing Code with Open Source][19] |
 | 01 June 2017 | Speaker |  Flatiron Product Series | The Flatiron School, New York | [The Workflows of Product Management][18] |
 | 29 March 2017 | Speaker | [Venmo Guest Speaker Event][15] | Columbia University,  New York | [Beyond Software Engineering][17] |
 | 02 March 2017 | Speaker | iOS Technical Guest Lecture | The Flatiron School, New York | [Building Emoji Autocomplete][16] |
@@ -54,3 +54,4 @@ If you'd like me to speak at a panel, competition or conference, email me at <da
 [18]: https://speakerdeck.com/dasmer/the-workflows-of-product-management
 [19]: https://www.eventbrite.com/e/justvenmome-sharing-code-with-open-source-tickets-35387480908
 [20]: https://www.eventbrite.com/e/entrepreneurship-bootcamp-series-how-to-hire-the-right-tech-team-tickets-35482476041
+[21]: https://speakerdeck.com/dasmer/sharing-code-with-open-source
